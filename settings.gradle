@@ -1,0 +1,2 @@
+include ':app', ':firebaseui-auth'
+rootProject.name='AddFirebase'
